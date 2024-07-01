@@ -1,0 +1,22 @@
+.container 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.658);
+  margin-top: 80PX;
+  width: 550PX;
+}
+
+#result
+{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #242424;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    height: 10vh;
+}
